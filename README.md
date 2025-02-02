@@ -3,7 +3,7 @@
 
 ## Title:
 
-Complicated vs Complex - the missing Distinction for navigating the Anthropocene
+Complicated vs Complex - The Missing Distinction for Navigating the Anthropocene
 
 ## Description:
 
@@ -18,6 +18,3 @@ If you want your own story to be told in my unique style check out my Liminal Co
 ---------------------------------------------------------------------------------------------------------
 
 Inspiration: https://www.youtube.com/watch?v=su91uPR_jmM
-
-# Script:
-

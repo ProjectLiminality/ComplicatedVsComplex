@@ -1,5 +1,5 @@
 # ComplicatedVsComplex
-![](ComplicatedVsComplex/ComplicatedVsComplex.png)
+![](ComplicatedVsComplex.png)
 
 ## Title:
 
